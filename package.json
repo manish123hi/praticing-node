@@ -1,0 +1,15 @@
+{
+  "name": "praticing-node",
+  "version": "1.0.0",
+  "description": "praticing node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Manish Karki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "url": "^0.11.4"
+  }
+}
